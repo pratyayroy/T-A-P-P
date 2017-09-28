@@ -1,7 +1,7 @@
 Explore and Summarize Data
 ==========================
 
-This repo contains files for my "P5 | Explore and Summarize Data", done as a part of Data Analyst Nanodegree in Udacity.
+This repo contains files for my "P6 | Test a Perceptual Phenomenon", done as a part of Data Analyst Nanodegree in Udacity.
 
 
 
